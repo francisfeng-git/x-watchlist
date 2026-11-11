@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:57:25.917Z",
+  "exportedAt": "2026-11-11T15:58:58.662Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -114,6 +114,25 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794411921261
+    },
+    {
+      "createdAt": 1794412701337,
+      "daily": true,
+      "domains": [
+        "美股",
+        "宏观",
+        "交易"
+      ],
+      "focus": "",
+      "handle": "ShanghaoJin",
+      "level": "good",
+      "name": "Herman Jin",
+      "note": "",
+      "role": "研究员/分析师",
+      "roles": [
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794412701337
     },
     {
       "createdAt": 1794411487532,
