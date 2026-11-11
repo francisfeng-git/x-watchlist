@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T16:00:39.375Z",
+  "exportedAt": "2026-11-11T16:02:00.041Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -154,24 +154,6 @@
       "updatedAt": 1794412701337
     },
     {
-      "createdAt": 1794412837962,
-      "daily": true,
-      "domains": [
-        "美股",
-        "交易"
-      ],
-      "focus": "",
-      "handle": "StockSavvyShay",
-      "level": "good",
-      "name": "Shay Boloor",
-      "note": "",
-      "role": "研究员/分析师",
-      "roles": [
-        "研究员/分析师"
-      ],
-      "updatedAt": 1794412837962
-    },
-    {
       "createdAt": 1794411487532,
       "daily": true,
       "domains": [
@@ -188,6 +170,25 @@
         "交易员"
       ],
       "updatedAt": 1794411487532
+    },
+    {
+      "createdAt": 1794412837962,
+      "daily": true,
+      "domains": [
+        "美股",
+        "交易"
+      ],
+      "focus": "",
+      "handle": "StockSavvyShay",
+      "level": "normal",
+      "name": "Shay Boloor",
+      "note": "",
+      "role": "研究员/分析师、时事追踪员",
+      "roles": [
+        "研究员/分析师",
+        "时事追踪员"
+      ],
+      "updatedAt": 1794412918489
     }
   ]
 }
