@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:54:40.112Z",
+  "exportedAt": "2026-11-11T15:57:25.917Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -75,6 +75,25 @@
         "内容创作者"
       ],
       "updatedAt": 1794411677373
+    },
+    {
+      "createdAt": 1794412643796,
+      "daily": true,
+      "domains": [
+        "美股",
+        "交易",
+        "加密货币"
+      ],
+      "focus": "",
+      "handle": "hibtc37",
+      "level": "good",
+      "name": "37度",
+      "note": "",
+      "role": "交易员",
+      "roles": [
+        "交易员"
+      ],
+      "updatedAt": 1794412643796
     },
     {
       "createdAt": 1794411921261,
