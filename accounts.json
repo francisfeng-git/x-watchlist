@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:42:42.332Z",
+  "exportedAt": "2026-11-11T15:45:22.716Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -10,7 +10,7 @@
         "美股",
         "宏观"
       ],
-      "focus": "",
+      "focus": "美股宏观经济分析",
       "handle": "qinbafrank",
       "level": "excellent",
       "name": "qinbafrank",
@@ -20,7 +20,7 @@
         "交易员",
         "研究员/分析师"
       ],
-      "updatedAt": 1794411760887
+      "updatedAt": 1794411795296
     },
     {
       "createdAt": 1794410969239,
@@ -75,6 +75,26 @@
         "内容创作者"
       ],
       "updatedAt": 1794411677373
+    },
+    {
+      "createdAt": 1794411921261,
+      "daily": true,
+      "domains": [
+        "Meme",
+        "美股",
+        "交易"
+      ],
+      "focus": "",
+      "handle": "Rocky_Bitcoin",
+      "level": "good",
+      "name": "Rocky",
+      "note": "",
+      "role": "交易员、研究员/分析师",
+      "roles": [
+        "交易员",
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794411921261
     },
     {
       "createdAt": 1794411487532,
