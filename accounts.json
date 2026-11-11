@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:40:06.714Z",
+  "exportedAt": "2026-11-11T15:41:19.139Z",
   "accounts": [
     {
       "createdAt": 1794410969239,
@@ -38,6 +38,24 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794411604732
+    },
+    {
+      "createdAt": 1794411677373,
+      "daily": true,
+      "domains": [
+        "AI"
+      ],
+      "focus": "AI 中文资讯",
+      "handle": "yihui_indie",
+      "level": "great",
+      "name": "Yihui",
+      "note": "",
+      "role": "开发者、内容创作者",
+      "roles": [
+        "开发者",
+        "内容创作者"
+      ],
+      "updatedAt": 1794411677373
     },
     {
       "createdAt": 1794411487532,
