@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:58:58.662Z",
+  "exportedAt": "2026-11-11T16:00:39.375Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -77,6 +77,25 @@
       "updatedAt": 1794411677373
     },
     {
+      "createdAt": 1794412790864,
+      "daily": true,
+      "domains": [
+        "Meme",
+        "加密货币",
+        "宏观"
+      ],
+      "focus": "",
+      "handle": "0xhiger",
+      "level": "good",
+      "name": "HIGER",
+      "note": "",
+      "role": "研究员/分析师",
+      "roles": [
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794412790864
+    },
+    {
       "createdAt": 1794412643796,
       "daily": true,
       "domains": [
@@ -133,6 +152,24 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794412701337
+    },
+    {
+      "createdAt": 1794412837962,
+      "daily": true,
+      "domains": [
+        "美股",
+        "交易"
+      ],
+      "focus": "",
+      "handle": "StockSavvyShay",
+      "level": "good",
+      "name": "Shay Boloor",
+      "note": "",
+      "role": "研究员/分析师",
+      "roles": [
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794412837962
     },
     {
       "createdAt": 1794411487532,
