@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:38:09.209Z",
+  "exportedAt": "2026-11-11T15:40:06.714Z",
   "accounts": [
     {
       "createdAt": 1794410969239,
@@ -21,6 +21,23 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794410969239
+    },
+    {
+      "createdAt": 1794411604732,
+      "daily": true,
+      "domains": [
+        "Meme"
+      ],
+      "focus": "Meme Coin 分析",
+      "handle": "btc2ai",
+      "level": "great",
+      "name": "Crypto北斗 · ᵃˡᵖʰᵃ",
+      "note": "",
+      "role": "研究员/分析师",
+      "roles": [
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794411604732
     },
     {
       "createdAt": 1794411487532,
