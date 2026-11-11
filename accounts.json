@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:31:58.481Z",
+  "exportedAt": "2026-11-11T15:38:09.209Z",
   "accounts": [
     {
       "createdAt": 1794410969239,
@@ -21,6 +21,24 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794410969239
+    },
+    {
+      "createdAt": 1794411487532,
+      "daily": true,
+      "domains": [
+        "交易",
+        "美股"
+      ],
+      "focus": "字节股神黄毛",
+      "handle": "leto_bao",
+      "level": "normal",
+      "name": "Leto Bao",
+      "note": "",
+      "role": "交易员",
+      "roles": [
+        "交易员"
+      ],
+      "updatedAt": 1794411487532
     }
   ]
 }
