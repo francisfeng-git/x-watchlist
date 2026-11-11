@@ -1,8 +1,27 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T15:41:19.139Z",
+  "exportedAt": "2026-11-11T15:42:42.332Z",
   "accounts": [
+    {
+      "createdAt": 1794411717360,
+      "daily": true,
+      "domains": [
+        "美股",
+        "宏观"
+      ],
+      "focus": "",
+      "handle": "qinbafrank",
+      "level": "excellent",
+      "name": "qinbafrank",
+      "note": "",
+      "role": "交易员、研究员/分析师",
+      "roles": [
+        "交易员",
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794411760887
+    },
     {
       "createdAt": 1794410969239,
       "daily": true,
