@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T16:02:00.041Z",
+  "exportedAt": "2026-11-11T16:03:13.088Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -170,6 +170,25 @@
         "交易员"
       ],
       "updatedAt": 1794411487532
+    },
+    {
+      "createdAt": 1794412968621,
+      "daily": true,
+      "domains": [
+        "加密货币",
+        "链上分析"
+      ],
+      "focus": "",
+      "handle": "Miles082510",
+      "level": "normal",
+      "name": "Miles",
+      "note": "",
+      "role": "研究员/分析师、交易员",
+      "roles": [
+        "研究员/分析师",
+        "交易员"
+      ],
+      "updatedAt": 1794412991771
     },
     {
       "createdAt": 1794412837962,
