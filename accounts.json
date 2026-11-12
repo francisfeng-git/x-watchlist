@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-11T16:03:13.088Z",
+  "exportedAt": "2026-11-12T12:32:40.522Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -113,6 +113,25 @@
         "交易员"
       ],
       "updatedAt": 1794412643796
+    },
+    {
+      "createdAt": 1794486759078,
+      "daily": true,
+      "domains": [
+        "交易",
+        "美股"
+      ],
+      "focus": "K线分析",
+      "handle": "nicaqs",
+      "level": "good",
+      "name": "nic.aqs",
+      "note": "",
+      "role": "交易员、研究员/分析师",
+      "roles": [
+        "交易员",
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794486759078
     },
     {
       "createdAt": 1794411921261,
