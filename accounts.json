@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-12T12:32:40.522Z",
+  "exportedAt": "2026-11-12T12:33:41.875Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -94,6 +94,25 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794412790864
+    },
+    {
+      "createdAt": 1794486820690,
+      "daily": true,
+      "domains": [
+        "Meme",
+        "加密货币"
+      ],
+      "focus": "Meme 车头",
+      "handle": "blknoiz06",
+      "level": "good",
+      "name": "Ansem 🐂🀄️",
+      "note": "",
+      "role": "KOL、交易员",
+      "roles": [
+        "KOL",
+        "交易员"
+      ],
+      "updatedAt": 1794486820690
     },
     {
       "createdAt": 1794412643796,
