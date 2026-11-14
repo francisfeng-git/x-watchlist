@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-12T12:33:41.875Z",
+  "exportedAt": "2026-11-14T10:03:15.133Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -57,6 +57,25 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794411604732
+    },
+    {
+      "createdAt": 1794650593443,
+      "daily": true,
+      "domains": [
+        "美股",
+        "监管/政策"
+      ],
+      "focus": "美股宏观经济分析",
+      "handle": "MrPingChecks",
+      "level": "great",
+      "name": "Mr. Ping",
+      "note": "",
+      "role": "交易员、研究员/分析师",
+      "roles": [
+        "交易员",
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794650593443
     },
     {
       "createdAt": 1794411677373,
