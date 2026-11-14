@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-14T10:05:11.799Z",
+  "exportedAt": "2026-11-14T10:05:57.363Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -75,6 +75,24 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794650628135
+    },
+    {
+      "createdAt": 1794650731396,
+      "daily": true,
+      "domains": [
+        "加密货币",
+        "Meme"
+      ],
+      "focus": "Meme Coin 分析",
+      "handle": "stitchdegen",
+      "level": "great",
+      "name": "Stitch",
+      "note": "",
+      "role": "研究员/分析师",
+      "roles": [
+        "研究员/分析师"
+      ],
+      "updatedAt": 1794650731396
     },
     {
       "createdAt": 1794411677373,
