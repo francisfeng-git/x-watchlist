@@ -1,7 +1,7 @@
 {
   "app": "x-notes",
   "version": 1,
-  "exportedAt": "2026-11-14T10:03:15.133Z",
+  "exportedAt": "2026-11-14T10:05:11.799Z",
   "accounts": [
     {
       "createdAt": 1794411717360,
@@ -70,12 +70,11 @@
       "level": "great",
       "name": "Mr. Ping",
       "note": "",
-      "role": "交易员、研究员/分析师",
+      "role": "研究员/分析师",
       "roles": [
-        "交易员",
         "研究员/分析师"
       ],
-      "updatedAt": 1794650593443
+      "updatedAt": 1794650628135
     },
     {
       "createdAt": 1794411677373,
@@ -190,6 +189,23 @@
         "研究员/分析师"
       ],
       "updatedAt": 1794411921261
+    },
+    {
+      "createdAt": 1794650710614,
+      "daily": true,
+      "domains": [
+        "AI"
+      ],
+      "focus": "Grok bot 开发者",
+      "handle": "roshan_s",
+      "level": "good",
+      "name": "Roshan Sadanani",
+      "note": "",
+      "role": "开发者",
+      "roles": [
+        "开发者"
+      ],
+      "updatedAt": 1794650710614
     },
     {
       "createdAt": 1794412701337,
